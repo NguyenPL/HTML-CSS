@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    line-height: 28px;
+    text-align: left;
+    width: 700px;
+    height: 100%;
+    margin: auto;
+}
+h3{
+    margin-top: 10px;   
+    font-size:22px;
+
+}
+img{
+    margin-top: 25px;
+    width: 700px;
+    height: 400px;
+}
+h4{
+    margin-top: 35px;
+}
+p{
+    margin-top: 25px;
+
+}
+button{
+    background-color: aqua;
+    border-radius: 3px;
+    padding: 8px;
+    margin-top: 25px;
+    position: 0.2s backgroud-color;
+}
+button:hover{
+    background-color: brown;
+}

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+.text{
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+    font-size: 18px;
+    color: #b4b4b4;
+}
+
+.work .list{
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    margin-left: 200px;
+    text-align: center;
+}
+.work .list li{
+    width: 300px;
+    list-style: none;
+    
+}
+.work .list li a{
+    text-decoration: none;
+    
+}
