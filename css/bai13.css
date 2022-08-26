@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.ari{
+
+    margin-left: 120px;
+    width: 400px;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.9;
+}
+.ari .xuongdong{
+    margin-top: 20px;
+}
+.links{
+    
+    width: 400px;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.9;
+}
+.links .xuongdong1{
+    margin-top: 20px;
+}
+
+.Categories{
+   
+    width: 400px;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.9;
+}
+.Categories .xuongdong2{
+    margin-top: 20px;
+}
+.Contact{
+  
+    width: 400px;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.9;
+}
+.Contact .xuongdong3{
+    margin-top: 20px;
+}

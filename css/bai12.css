@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    padding-top: 30px;
+    width: 100%;
+    display: flex;
+    margin: auto;
+    line-height: 20px;
+}
+body{
+    font-family: Helvetica,sans-serif;
+}
+header .nav-list ul{
+    display: flex;
+    line-height: 20px;
+    
+}
+
+header .nav-list ul li{
+    margin-top: 10px;
+    margin-left: 15px;
+    list-style: none;
+    
+}
+header .nav-list ul li a{
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+
+img{
+    margin-top: -10px;
+    margin-left: 125px;
+}
+button{
+    border-radius: 5px;
+    margin-left: 200px;
+    background-color: rgb(237, 247, 244);
+    height: 35px;
+}

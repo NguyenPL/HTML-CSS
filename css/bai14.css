@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  ul {
+    list-style: none;
+  }
+  body {
+    color: #aeaeae;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .main {
+    margin: 30px auto;
+    width: 690px;
+  }
+  .main h2 {
+    color: #000;
+    font-size: 27px;
+    margin-bottom: 20px;
+  }
+  .main .text {
+    margin-bottom: 23px;
+  }
+  .main ul li {
+    float: left;
+    font-size: 15px;
+    margin-bottom: 10px;
+    width: 33%;
+  }
+  .main ul li i {
+    color: #8fa119;
+    margin-right: 10px;
+  }

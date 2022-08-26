@@ -3,14 +3,21 @@
     margin: 0;
     padding: 0;
   }
-  ul {
-    list-style: none;
-  }
+  
   body {
     color: #383838;
     font-family: Helvetica,sans-serif;
     font-size: 16px;
     line-height: 1.5;
+  }
+  ul {
+    width: 1000px;
+    list-style: none;
+    display: flex;
+  }
+  .T-list{
+    margin: 30px auto;
+    width: 940px;
   }
  
 
@@ -42,9 +49,10 @@
     top: 20px;
     width: 100%;
   }
-  .T .example-list li {
+  .T .T-list li {
     float: left;
     margin-right: 26px;
-    width: 215px; 
+    width: 220px; 
   }
+  
   
