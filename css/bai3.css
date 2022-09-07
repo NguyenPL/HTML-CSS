@@ -26,15 +26,19 @@ section{
     padding: 10px;
 }
 .main-icon{
-    margin-top: 30px;
+    margin-top: 50px;
+    border: 2px solid aqua;
+    border-radius: 50%;
+    height: 59px;
+    width: 80px;
+    padding-top: 22px;
     font-size: 40px;
-    color: blue;
+    color: aqua;
+}
+.BB{
+    margin-top: 50px;
+}
 
-}
-.main h4{
-    font-size: 30px;
-    margin-top: 30px;
-}
 .main p{
     margin-top: 30px;
 }
